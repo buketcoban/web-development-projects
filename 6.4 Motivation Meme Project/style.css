@@ -1,0 +1,34 @@
+body{
+    background-color: black;}
+    h1{
+        text-transform: uppercase;
+        margin: 20px 250px;
+        font-size: 2rem;
+
+        
+    }
+
+    .meme{
+         font-size: 15px;
+         color: white;
+         font-family: "Libre Baskerville", serif;
+         
+        
+
+        
+    }
+
+    .herabebis{
+        width: 400px;
+        height: 480px;
+        margin-left: 450px;
+        margin-top: 55px;
+        border: 5px solid white;
+
+
+    }
+    p{
+        font-size: 1.5rem;
+        margin: 20px 520px;
+    }
+
